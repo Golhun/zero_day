@@ -1,0 +1,2 @@
+# The Beginning of my ALX journey
+This is my first repository as a full-stack engineer
